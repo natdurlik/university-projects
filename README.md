@@ -1,3 +1,3 @@
 # university-projects
 
-Coursework for Jagiellonian University.
+Selected programs from coursework at Jagiellonian University.
